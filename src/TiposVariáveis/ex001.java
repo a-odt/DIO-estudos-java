@@ -1,4 +1,4 @@
-package Tipos.variáveis;
+package TiposVariáveis;
 
 public class ex001 {
     public static void main(String[] args) {
